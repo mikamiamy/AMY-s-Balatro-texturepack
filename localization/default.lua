@@ -5,6 +5,10 @@ return {
 				name = "Baron Waifu",
 				text = {},
 			},
+            alt_tex_Amys_Waifus_mime_joker = {
+                name = "AMY",
+                text = {},
+            },
             alt_tex_Amys_Waifus_joker_joker = {
                 name = "Hatsune Miku",
                 text = {},
@@ -14,15 +18,18 @@ return {
             texpack_Amys_Waifus_amyjoker = {
                 name = 'AMYs Waifus',
                 text = {
-                    'Retextures the Baron Joker card{}',
+                    'Retextures Jokers card{}',
                     'to be {E:1,C:legendary}"Animetic"{}',
-                    'Art by {E:1,C:dark_edition,s:1.1}Amy',
-                    '{C:inactive,s:0.8}Code by Amy.{}'
+                    'Art by {E:1,C:dark_edition,s:1.1}AMY',
+                    '{C:inactive,s:0.8}Code by AMY.{}'
                 },
                 localization = {
 					j_baron = {
 						name = "Baron Waifu",
 					},
+                    j_mime = {
+                        name = "AMY",
+                    },
                     j_joker = {
                         name = "Hatsune Miku",
                     }

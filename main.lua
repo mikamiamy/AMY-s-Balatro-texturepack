@@ -4,7 +4,7 @@
 --- PREFIX: Amys_Waifus
 --- MOD_AUTHOR: [AMY]
 --- MOD_DESCRIPTION: Retexture Jokers by their female version. Art by AMY
---- VERSION: 1.3.0
+--- VERSION: 1.4.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture{
@@ -13,6 +13,16 @@ AltTexture{
 	path = 'baron.png',
 	keys = {
 		'j_baron'
+	},
+
+}
+
+AltTexture{
+	key = 'mime_joker',
+	set = 'Joker',
+	path = 'mime.png',
+	keys = {
+		'j_mime'
 	},
 
 }
@@ -32,6 +42,7 @@ TexturePack{
 	textures = {
 		"Amys_Waifus_baron_joker",
 		"Amys_Waifus_joker_joker",
+		"Amys_Waifus_mime_joker",
 	},
 	toggle_textures = {},
 	dynamic_display = true,
