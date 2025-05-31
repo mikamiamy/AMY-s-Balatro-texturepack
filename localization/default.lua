@@ -10,7 +10,7 @@ return {
                 text = {},
             },
             alt_tex_Amys_Waifus_joker_joker = {
-                name = "Hatsune Miku",
+                name = "Alice Fumo",
                 text = {},
             },
 		},
@@ -31,7 +31,7 @@ return {
                         name = "AMY",
                     },
                     j_joker = {
-                        name = "Hatsune Miku",
+                        name = "Alice Fumo",
                     }
 				},
             }

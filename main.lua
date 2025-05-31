@@ -3,7 +3,7 @@
 --- MOD_ID: Amys_Waifus
 --- PREFIX: Amys_Waifus
 --- MOD_AUTHOR: [AMY]
---- MOD_DESCRIPTION: Retexture Jokers by their female version. Art by AMY
+--- MOD_DESCRIPTION: Retexture Jokers by which I want them to be. Art by AMY
 --- VERSION: 1.4.0
 --- DEPENDENCIES: [malverk]
 
@@ -30,7 +30,7 @@ AltTexture{
 AltTexture{
 	key = 'joker_joker',
 	set = 'Joker',
-	path = 'joker.png',
+	path = 'showman.png',
 	keys = {
 		'j_joker'
 	},
