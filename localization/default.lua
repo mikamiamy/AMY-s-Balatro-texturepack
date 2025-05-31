@@ -9,7 +9,7 @@ return {
                 name = "AMY",
                 text = {},
             },
-            alt_tex_Amys_Waifus_joker_joker = {
+            alt_tex_Amys_Waifus_ringmaster_joker = {
                 name = "Alice Fumo",
                 text = {},
             },
@@ -30,7 +30,7 @@ return {
                     j_mime = {
                         name = "AMY",
                     },
-                    j_joker = {
+                    j_ringmaster = {
                         name = "Alice Fumo",
                     }
 				},

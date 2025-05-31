@@ -28,11 +28,11 @@ AltTexture{
 }
 
 AltTexture{
-	key = 'joker_joker',
+	key = 'ringmaster_joker',
 	set = 'Joker',
 	path = 'showman.png',
 	keys = {
-		'j_joker'
+		'j_ringmaster'
 	},
 
 }
@@ -41,7 +41,7 @@ TexturePack{
 	key = 'amyjoker',
 	textures = {
 		"Amys_Waifus_baron_joker",
-		"Amys_Waifus_joker_joker",
+		"Amys_Waifus_ringmaster_joker",
 		"Amys_Waifus_mime_joker",
 	},
 	toggle_textures = {},
