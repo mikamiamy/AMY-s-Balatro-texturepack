@@ -4,7 +4,7 @@
 --- PREFIX: Amys_Waifus
 --- MOD_AUTHOR: [AMY]
 --- MOD_DESCRIPTION: Retexture Jokers by which I want them to be. Art by AMY
---- VERSION: 1.4.0
+--- VERSION: 1.4.2
 --- DEPENDENCIES: [malverk]
 
 AltTexture{
@@ -34,7 +34,24 @@ AltTexture{
 	keys = {
 		'j_ring_master'
 	},
+}
 
+	AltTexture{
+		key = 'bloodstone',
+		set = 'Joker',
+		path = 'bocchi.png',
+		keys = {
+			'j_bloodstone'
+		},
+}
+
+AltTexture{
+	key = 'j_lucky_cat',
+	set = 'Joker',
+	path = 'shinomiya.png',
+	keys = {
+		'j_lucky_cat'
+	},
 }
 
 TexturePack{
@@ -43,6 +60,8 @@ TexturePack{
 		"Amys_Waifus_baron_joker",
 		"Amys_Waifus_ring_master_joker",
 		"Amys_Waifus_mime_joker",
+		"Amys_Waifus_bloodstone_joker",
+		"Amys_Waifus_lucky_cat_joker",
 	},
 	toggle_textures = {},
 	dynamic_display = true,

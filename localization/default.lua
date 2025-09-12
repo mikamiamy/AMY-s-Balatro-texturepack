@@ -10,10 +10,19 @@ return {
                 text = {},
             },
             alt_tex_Amys_Waifus_ring_master_joker = {
-                name = "Alice Fumo",
+                name = "Alice Fumo (PH)",
                 text = {},
             },
-		},
+            alt_tex_Amys_Waifus_bloodstone_joker = {
+                name = "{f:5}Gotoh Hitori{}",
+                text = {},
+            },
+            alt_tex_Amys_Waifus_lucky_cat_joker = {
+                name = "{f:3}Kaguya-chan{}",
+                text = {},
+	    	},
+        },
+
         texture_packs = {
             texpack_Amys_Waifus_amyjoker = {
                 name = 'AMYs Waifus',
@@ -32,7 +41,13 @@ return {
                     },
                     j_ring_master = {
                         name = "Alice Fumo",
-                    }
+                    },
+                    j_bloodstone = {
+                        name = "Gotoh Hitori",
+                    },
+                    j_lucky_cat = {
+                        name = "Kaguya-chan",
+                    },
 				},
             }
         }
