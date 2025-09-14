@@ -57,9 +57,9 @@ AltTexture{
 TexturePack{
 	key = 'amyjoker',
 	textures = {
+		"Amys_Waifus_mime_joker",
 		"Amys_Waifus_baron_joker",
 		"Amys_Waifus_ring_master_joker",
-		"Amys_Waifus_mime_joker",
 		"Amys_Waifus_bloodstone_joker",	
 		"Amys_Waifus_lucky_cat_joker",
 	},
