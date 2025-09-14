@@ -36,7 +36,7 @@ AltTexture{
 	},
 }
 
-	AltTexture{
+AltTexture{
 		key = 'bloodstone',
 		set = 'Joker',
 		path = 'bocchi.png',

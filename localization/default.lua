@@ -30,7 +30,7 @@ return {
                     'Retextures Jokers card{}',
                     'to be {E:1,C:legendary}"Animetic"{}',
                     'Art by {E:1,C:dark_edition,s:1.1}AMY',
-                    '{C:inactive,s:0.8}Code by AMY.{}'
+                    '{C:inactive,s:0.5}Code by AMY.{}'
                 },
                 localization = {
 					j_baron = {
