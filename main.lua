@@ -36,8 +36,8 @@ AltTexture{
 	},
 }
 
-AltTexture{
-		key = 'bloodstone',
+	AltTexture{
+		key = 'bloodstone_joker',
 		set = 'Joker',
 		path = 'bocchi.png',
 		keys = {
@@ -46,7 +46,7 @@ AltTexture{
 }
 
 AltTexture{
-	key = 'j_lucky_cat',
+	key = 'lucky_cat_joker',
 	set = 'Joker',
 	path = 'shinomiya.png',
 	keys = {
@@ -60,7 +60,7 @@ TexturePack{
 		"Amys_Waifus_baron_joker",
 		"Amys_Waifus_ring_master_joker",
 		"Amys_Waifus_mime_joker",
-		"Amys_Waifus_bloodstone_joker",
+		"Amys_Waifus_bloodstone_joker",	
 		"Amys_Waifus_lucky_cat_joker",
 	},
 	toggle_textures = {},
