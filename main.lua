@@ -53,6 +53,14 @@ AltTexture{
 		'j_lucky_cat'
 	},
 }
+AltTexture{
+	key = 'blueprint_joker',
+	set = 'Joker',
+	path = 'copycat.png',
+	keys = {
+		'j_blueprint'
+	},
+}
 
 TexturePack{
 	key = 'amyjoker',
@@ -62,6 +70,7 @@ TexturePack{
 		"Amys_Waifus_ring_master_joker",
 		"Amys_Waifus_bloodstone_joker",	
 		"Amys_Waifus_lucky_cat_joker",
+		"Amys_Waifus_blueprint_joker",
 	},
 	toggle_textures = {},
 	dynamic_display = true,
