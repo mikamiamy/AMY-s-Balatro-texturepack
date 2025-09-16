@@ -48,6 +48,8 @@ return {
                     j_lucky_cat = {
                         name = "Kaguya-chan",
                     },
+                    j_blueprint = {
+                        name = ' "The copycat" ',
 				},
             }
         }
