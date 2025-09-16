@@ -49,7 +49,7 @@ return {
                         name = "Kaguya-chan",
                     },
                     j_blueprint = {
-                        name = ' "The copycat" ',
+                        name = "The copycat",
 				},
             }
         }
