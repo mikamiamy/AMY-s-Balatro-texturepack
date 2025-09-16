@@ -53,6 +53,7 @@ AltTexture{
 		'j_lucky_cat'
 	},
 }
+
 AltTexture{
 	key = 'blueprint_joker',
 	set = 'Joker',
