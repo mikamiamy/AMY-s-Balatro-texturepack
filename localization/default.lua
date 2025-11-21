@@ -50,7 +50,8 @@ return {
                     },
                     j_blueprint = {
                         name = "The Copycat",
-				},
+					}
+				}
             }
         }
     }
